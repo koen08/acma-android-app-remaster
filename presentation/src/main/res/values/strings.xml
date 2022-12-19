@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">acma-android-app-remaster</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bottomNav_project">Проекты</string>
+    <string name="bottomNav_task">Задачи</string>
+    <string name="bottomNav_profile">Профиль</string>
+
+    <!--Login-->
+    <string name="auth_loginAppbarTitle">Вход</string>
+    <string name="auth_loginEmailInputHint">Электронная почта</string>
+    <string name="auth_loginPasswordInputHint">Пароль</string>
+    <string name="auth_loginButton">Войти</string>
+</resources>

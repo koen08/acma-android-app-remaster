@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View android:id="@+id/statusBarOverlay"
+    android:layout_width="wrap_content"
+    android:layout_height="50dp"
+    android:elevation="1dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

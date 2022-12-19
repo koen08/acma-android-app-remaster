@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextBodyM">
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+        <item name="android:fontFamily">@font/roboto_medium_500</item>
+    </style>
+
+    <style name="BodyMedium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+        <item name="android:fontFamily">@font/roboto_medium_500</item>
+    </style>
+
+    <style name="BodyRegular">
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+        <item name="android:fontFamily">@font/roboto_regular_400</item>
+    </style>
+
+    <style name="BodyRegularLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+        <item name="android:fontFamily">@font/roboto_regular_400</item>
+    </style>
+
+</resources>
